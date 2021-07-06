@@ -1,6 +1,6 @@
 # Text summarization
 
-We explored two types of summarization: abstractive and extractive to derive pros and cons of the both approaches.
+We explored two types of summarization: **abstractive** and **extractive** to derive pros and cons of the both approaches.
 
 ## Preparation:
 We parsed articles of the **Russian Foreign Economic Bulletin** for the source material in non-ML extractive approaches.
